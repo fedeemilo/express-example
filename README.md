@@ -2,7 +2,9 @@
 
 ### Setup
 
-- git clone
+- git clone https://github.com/fedeemilo/express-example.git
+
+- cd express-example
 
 - npm install
 
